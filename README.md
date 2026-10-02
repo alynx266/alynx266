@@ -11,6 +11,5 @@
 ```text
   ✝  𝕴𝖓 𝖌𝖔𝖉 𝖜𝖊 𝖙𝖗𝖚𝖘𝖙, 𝖎𝖓 𝖈𝖔𝖉𝖊 𝖜𝖊 𝖈𝖗𝖊𝖆𝖙𝖊  ✝;
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&pause=1000&color=FFFFFF&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-
+```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&pause=1000&color=431462&width=435&lines=welcome+my+profile)](https://git.io/typing-svg)
