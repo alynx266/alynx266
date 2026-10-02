@@ -10,13 +10,6 @@
 
 ```text
   ✝  𝕴𝖓 𝖌𝖔𝖉 𝖜𝖊 𝖙𝖗𝖚𝖘𝖙, 𝖎𝖓 𝖈𝖔𝖉𝖊 𝖜𝖊 𝖈𝖗𝖊𝖆𝖙𝖊  ✝
-✝ 𝕬𝖇𝖔𝖚𝖙 𝕸𝖊
-✝ Nama: [NAMA KAMU]
-
-⚜ Fokus: Web Development & Digital Business
-
-🗡 Tech Stack: HTML/CSS, JavaScript, SQL, PHP
-
-🕷 Status: Student & Tech Enthusiast
-
-🖤 Quote: "With great code comes great responsibility"
+<!-- TEKS ANIMASI BERJALAN -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=%E2%9C%9D+WELCOME+TO+MY+PROFILE;%E2%9C%9D+CREATIVE+DEVELOPER;%E2%9C%9D+CHROME+HEARTS+AESTHETIC" alt="Typing SVG" />
+​</div>
