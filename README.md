@@ -10,5 +10,7 @@
 
 ```text
   ✝  𝕴𝖓 𝖌𝖔𝖉 𝖜𝖊 𝖙𝖗𝖚𝖘𝖙, 𝖎𝖓 𝖈𝖔𝖉𝖊 𝖜𝖊 𝖈𝖗𝖊𝖆𝖙𝖊  ✝;
-lines=%E2%9C%9D+WELCOME+TO+MY+PROFILE;%E2%9C%9D+CREATIVE+DEVELOPER;%E2%9C%9D+CHROME+HEARTS+AESTHETIC
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&pause=1000&color=FFFFFF&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
