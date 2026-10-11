@@ -3,7 +3,7 @@
 <div align="center">
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=%E2%9C%9D%20ALYNX%20%E2%9C%9D&fontSize=40&fontColor=ffffff&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=ALYNX&fontSize=40&fontColor=ffffff&fontAlignY=50" width="100%" />
 
   <br>
 
@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/CHROME_HEARTS-Gothic-black?style=for-the-badge&logoColor=white" alt="Chrome Hearts">
     <img src="https://img.shields.io/badge/STATUS-ACTIVE-0d1117?style=for-the-badge&logoColor=white" alt="Status">
   </p>
+
+</div>
 
 </div>
 <!-- HEADER CHROME HEARTS -->
