@@ -1,6 +1,18 @@
 # alynx266
 <div align="center">
+<div align="center">
+<div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&text=%E2%9C%9D%20ALYNX%20%E2%9C%9D&fontSize=40&fontColor=ffffff&fontAlignY=50" width="100%" />
+
+  <br>
+
+  <p>
+    <img src="https://img.shields.io/badge/CHROME_HEARTS-Gothic-black?style=for-the-badge&logoColor=white" alt="Chrome Hearts">
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-0d1117?style=for-the-badge&logoColor=white" alt="Status">
+  </p>
+
+</div>
 <!-- HEADER CHROME HEARTS -->
 <h1> 𝕮𝖍𝖗𝖔𝖒𝖊 𝕮𝖔𝖉𝖊 </h1>
 
